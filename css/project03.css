@@ -10,18 +10,18 @@ body {
 }
 
 .pimg {
-    background-image: url("img/image1.png");
+    background-image: url("/img/image1.png");
     min-height: 100%;
 
 }
 
 .pimg2 {
-    background-image: url("img/image2.png");
+    background-image: url("/img/image2.png");
     min-height: 400px;
 }
 
 .pimg3 {
-    background-image: url("img/image3.png");
+    background-image: url("/img/image3.png");
     min-height: 400px;
 }
 
